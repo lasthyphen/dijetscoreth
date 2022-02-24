@@ -32,8 +32,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/ethdb"
-	"github.com/lasthyphen/coreth1.2/ethdb/memorydb"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb/memorydb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/olekukonko/tablewriter"

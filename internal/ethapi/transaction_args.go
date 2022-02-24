@@ -33,8 +33,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/common/math"

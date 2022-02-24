@@ -12,7 +12,7 @@ import (
 	"github.com/lasthyphen/dijetsnetgo1.2/utils/ulimit"
 	"github.com/lasthyphen/dijetsnetgo1.2/vms/rpcchainvm"
 
-	"github.com/lasthyphen/coreth1.2/plugin/evm"
+	"github.com/lasthyphen/dijetscoreth/plugin/evm"
 )
 
 func main() {

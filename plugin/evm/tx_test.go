@@ -10,7 +10,7 @@ import (
 
 	"github.com/lasthyphen/dijetsnetgo1.2/chains/atomic"
 	"github.com/lasthyphen/dijetsnetgo1.2/snow"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/params"
 )
 
 func TestCalculateDynamicFee(t *testing.T) {

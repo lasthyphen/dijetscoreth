@@ -16,23 +16,23 @@ import (
 	"sync"
 	"time"
 
-	coreth "github.com/lasthyphen/coreth1.2/chain"
-	"github.com/lasthyphen/coreth1.2/consensus/dummy"
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/eth/ethconfig"
-	"github.com/lasthyphen/coreth1.2/metrics/prometheus"
-	"github.com/lasthyphen/coreth1.2/node"
-	"github.com/lasthyphen/coreth1.2/params"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	coreth "github.com/lasthyphen/dijetscoreth/chain"
+	"github.com/lasthyphen/dijetscoreth/consensus/dummy"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/eth/ethconfig"
+	"github.com/lasthyphen/dijetscoreth/metrics/prometheus"
+	"github.com/lasthyphen/dijetscoreth/node"
+	"github.com/lasthyphen/dijetscoreth/params"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 
 	// Force-load tracer engine to trigger registration
 	//
 	// We must import this package (not referenced elsewhere) so that the native "callTracer"
 	// is added to a map of client-accessible tracers. In geth, this is done
 	// inside of cmd/geth.
-	_ "github.com/lasthyphen/coreth1.2/eth/tracers/native"
+	_ "github.com/lasthyphen/dijetscoreth/eth/tracers/native"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"

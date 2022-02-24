@@ -29,8 +29,8 @@ package memorydb
 import (
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/ethdb"
-	"github.com/lasthyphen/coreth1.2/ethdb/dbtest"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb/dbtest"
 )
 
 func TestMemoryDB(t *testing.T) {

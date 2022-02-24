@@ -29,7 +29,7 @@ package trie
 import (
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/ethdb/memorydb"
+	"github.com/lasthyphen/dijetscoreth/ethdb/memorydb"
 	"github.com/ethereum/go-ethereum/common"
 )
 

@@ -6,7 +6,7 @@ package evm
 import (
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/params"
 
 	"github.com/lasthyphen/dijetsnetgo1.2/ids"
 	"github.com/lasthyphen/dijetsnetgo1.2/utils/crypto"

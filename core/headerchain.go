@@ -33,11 +33,11 @@ import (
 	mrand "math/rand"
 	"sync/atomic"
 
-	"github.com/lasthyphen/coreth1.2/consensus"
-	"github.com/lasthyphen/coreth1.2/core/rawdb"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/ethdb"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/consensus"
+	"github.com/lasthyphen/dijetscoreth/core/rawdb"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
+	"github.com/lasthyphen/dijetscoreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	lru "github.com/hashicorp/golang-lru"
 )

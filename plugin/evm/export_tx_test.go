@@ -16,7 +16,7 @@ import (
 	"github.com/lasthyphen/dijetsnetgo1.2/utils/units"
 	"github.com/lasthyphen/dijetsnetgo1.2/vms/components/djtx"
 	"github.com/lasthyphen/dijetsnetgo1.2/vms/secp256k1fx"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

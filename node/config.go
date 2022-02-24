@@ -32,10 +32,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/lasthyphen/coreth1.2/accounts"
-	"github.com/lasthyphen/coreth1.2/accounts/external"
-	"github.com/lasthyphen/coreth1.2/accounts/keystore"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/accounts"
+	"github.com/lasthyphen/dijetscoreth/accounts/external"
+	"github.com/lasthyphen/dijetscoreth/accounts/keystore"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 	"github.com/ethereum/go-ethereum/log"
 )
 

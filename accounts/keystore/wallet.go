@@ -29,9 +29,9 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/lasthyphen/coreth1.2/accounts"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/interfaces"
+	"github.com/lasthyphen/dijetscoreth/accounts"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/interfaces"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 

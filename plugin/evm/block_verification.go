@@ -11,11 +11,11 @@ import (
 
 	safemath "github.com/lasthyphen/dijetsnetgo1.2/utils/math"
 
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/params"
-	"github.com/lasthyphen/coreth1.2/trie"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/params"
+	"github.com/lasthyphen/dijetscoreth/trie"
 
-	coreth "github.com/lasthyphen/coreth1.2/chain"
+	coreth "github.com/lasthyphen/dijetscoreth/chain"
 )
 
 var (

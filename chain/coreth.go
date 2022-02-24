@@ -8,14 +8,14 @@ import (
 	"time"
 
 	"github.com/lasthyphen/dijetsnetgo1.2/utils/timer/mockable"
-	"github.com/lasthyphen/coreth1.2/consensus/dummy"
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/eth"
-	"github.com/lasthyphen/coreth1.2/ethdb"
-	"github.com/lasthyphen/coreth1.2/node"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/consensus/dummy"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/eth"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
+	"github.com/lasthyphen/dijetscoreth/node"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 )
 

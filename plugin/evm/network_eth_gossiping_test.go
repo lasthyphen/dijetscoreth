@@ -20,10 +20,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/params"
-	"github.com/lasthyphen/coreth1.2/plugin/evm/message"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/params"
+	"github.com/lasthyphen/dijetscoreth/plugin/evm/message"
 )
 
 func fundAddressByGenesis(addrs []common.Address) (string, error) {

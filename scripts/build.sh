@@ -27,4 +27,4 @@ coreth_commit=${CORETH_COMMIT:-$( git rev-list -1 HEAD )}
 
 # Build Coreth, which is run as a subprocess
 echo "Building Coreth Version: $coreth_version; GitCommit: $coreth_commit"
-go build -ldflags "-X github.com/lasthyphen/coreth1.2/plugin/evm.GitCommit=$coreth_commit -X github.com/lasthyphen/coreth1.2/plugin/evm.Version=$coreth_version" -o "$binary_path" "plugin/"*.go
+go build -ldflags "-X github.com/lasthyphen/dijetscoreth/plugin/evm.GitCommit=$coreth_commit -X github.com/lasthyphen/dijetscoreth/plugin/evm.Version=$coreth_version" -o "$binary_path" "plugin/"*.go

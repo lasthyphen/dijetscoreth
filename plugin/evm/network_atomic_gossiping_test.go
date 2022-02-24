@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/lasthyphen/coreth1.2/plugin/evm/message"
+	"github.com/lasthyphen/dijetscoreth/plugin/evm/message"
 )
 
 // locally issued txs should be gossiped

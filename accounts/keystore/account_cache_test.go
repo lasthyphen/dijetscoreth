@@ -36,7 +36,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/accounts"
+	"github.com/lasthyphen/dijetscoreth/accounts"
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/ethereum/go-ethereum/common"

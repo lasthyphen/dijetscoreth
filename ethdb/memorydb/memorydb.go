@@ -33,7 +33,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/lasthyphen/coreth1.2/ethdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
 	"github.com/ethereum/go-ethereum/common"
 )
 

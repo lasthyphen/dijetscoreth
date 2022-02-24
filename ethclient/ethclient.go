@@ -35,10 +35,10 @@ import (
 	"math/big"
 
 	"github.com/lasthyphen/dijetsnetgo1.2/ids"
-	"github.com/lasthyphen/coreth1.2/accounts/abi/bind"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/interfaces"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi/bind"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/interfaces"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )

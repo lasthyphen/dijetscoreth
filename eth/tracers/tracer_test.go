@@ -33,9 +33,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/core/vm"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/core/vm"
+	"github.com/lasthyphen/dijetscoreth/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

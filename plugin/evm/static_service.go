@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 
 	"github.com/lasthyphen/dijetsnetgo1.2/utils/formatting"
-	"github.com/lasthyphen/coreth1.2/core"
+	"github.com/lasthyphen/dijetscoreth/core"
 )
 
 // StaticService defines the static API services exposed by the evm

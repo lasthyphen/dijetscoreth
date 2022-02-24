@@ -33,8 +33,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/lasthyphen/coreth1.2/core/vm"
-	"github.com/lasthyphen/coreth1.2/eth/tracers/internal/tracers"
+	"github.com/lasthyphen/dijetscoreth/core/vm"
+	"github.com/lasthyphen/dijetscoreth/eth/tracers/internal/tracers"
 )
 
 // Tracer interface extends vm.EVMLogger and additionally

@@ -40,7 +40,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/lasthyphen/coreth1.2/accounts/abi"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi"
 	"github.com/ethereum/go-ethereum/log"
 )
 

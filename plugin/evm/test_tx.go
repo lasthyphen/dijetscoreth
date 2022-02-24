@@ -8,8 +8,8 @@ import (
 	"github.com/lasthyphen/dijetsnetgo1.2/chains/atomic"
 	"github.com/lasthyphen/dijetsnetgo1.2/ids"
 	"github.com/lasthyphen/dijetsnetgo1.2/snow"
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/params"
 )
 
 type TestTx struct {

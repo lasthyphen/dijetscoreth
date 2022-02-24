@@ -40,7 +40,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/params"
 )
 
 func readJSON(reader io.Reader, value interface{}) error {

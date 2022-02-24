@@ -35,9 +35,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/lasthyphen/coreth1.2/accounts/abi"
-	"github.com/lasthyphen/coreth1.2/accounts/abi/bind"
-	"github.com/lasthyphen/coreth1.2/internal/flags"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi/bind"
+	"github.com/lasthyphen/dijetscoreth/internal/flags"
 	"github.com/ethereum/go-ethereum/cmd/utils"
 	"github.com/ethereum/go-ethereum/common/compiler"
 	"github.com/ethereum/go-ethereum/crypto"

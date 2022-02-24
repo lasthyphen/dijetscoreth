@@ -29,7 +29,7 @@ package core
 import (
 	"sync"
 
-	"github.com/lasthyphen/coreth1.2/core/state"
+	"github.com/lasthyphen/dijetscoreth/core/state"
 	"github.com/ethereum/go-ethereum/common"
 )
 

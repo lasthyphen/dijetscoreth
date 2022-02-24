@@ -30,8 +30,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/lasthyphen/coreth1.2/core/rawdb"
-	"github.com/lasthyphen/coreth1.2/ethdb"
+	"github.com/lasthyphen/dijetscoreth/core/rawdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/prque"
 )

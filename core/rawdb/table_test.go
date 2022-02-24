@@ -30,7 +30,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/ethdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
 )
 
 func TestTableDatabase(t *testing.T)            { testTableDatabase(t, "prefix") }

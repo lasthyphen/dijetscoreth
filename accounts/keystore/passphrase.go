@@ -48,7 +48,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/lasthyphen/coreth1.2/accounts"
+	"github.com/lasthyphen/dijetscoreth/accounts"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"

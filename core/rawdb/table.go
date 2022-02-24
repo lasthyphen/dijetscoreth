@@ -27,7 +27,7 @@
 package rawdb
 
 import (
-	"github.com/lasthyphen/coreth1.2/ethdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
 )
 
 // table is a wrapper around a database that prefixes each key access with a pre-

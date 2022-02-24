@@ -37,7 +37,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/accounts"
+	"github.com/lasthyphen/dijetscoreth/accounts"
 	mapset "github.com/deckarep/golang-set"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"

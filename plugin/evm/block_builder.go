@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	coreth "github.com/lasthyphen/coreth1.2/chain"
-	"github.com/lasthyphen/coreth1.2/params"
+	coreth "github.com/lasthyphen/dijetscoreth/chain"
+	"github.com/lasthyphen/dijetscoreth/params"
 
 	"github.com/lasthyphen/dijetsnetgo1.2/snow"
 	commonEng "github.com/lasthyphen/dijetsnetgo1.2/snow/engine/common"

@@ -29,7 +29,7 @@ package eth
 import (
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/core/rawdb"
+	"github.com/lasthyphen/dijetscoreth/core/rawdb"
 	"github.com/ethereum/go-ethereum/common/bitutil"
 )
 

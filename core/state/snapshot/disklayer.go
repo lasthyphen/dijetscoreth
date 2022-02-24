@@ -32,9 +32,9 @@ import (
 	"time"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/lasthyphen/coreth1.2/core/rawdb"
-	"github.com/lasthyphen/coreth1.2/ethdb"
-	"github.com/lasthyphen/coreth1.2/trie"
+	"github.com/lasthyphen/dijetscoreth/core/rawdb"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
+	"github.com/lasthyphen/dijetscoreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/rlp"
 )

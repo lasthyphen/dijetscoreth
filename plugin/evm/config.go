@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/eth"
+	"github.com/lasthyphen/dijetscoreth/eth"
 	"github.com/spf13/cast"
 )
 

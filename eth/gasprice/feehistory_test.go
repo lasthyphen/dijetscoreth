@@ -32,11 +32,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/types"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/types"
 
-	"github.com/lasthyphen/coreth1.2/params"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/params"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 )
 

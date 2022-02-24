@@ -26,7 +26,7 @@
 
 package bind
 
-import "github.com/lasthyphen/coreth1.2/accounts/abi"
+import "github.com/lasthyphen/dijetscoreth/accounts/abi"
 
 // tmplData is the data structure required to fill the binding template.
 type tmplData struct {
@@ -102,10 +102,10 @@ import (
 	"strings"
 	"errors"
 
-	"github.com/lasthyphen/coreth1.2/accounts/abi"
-	"github.com/lasthyphen/coreth1.2/accounts/abi/bind"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/interfaces"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi/bind"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/interfaces"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 )

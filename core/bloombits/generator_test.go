@@ -31,7 +31,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/core/types"
+	"github.com/lasthyphen/dijetscoreth/core/types"
 )
 
 // Tests that batched bloom bits are correctly rotated from the input bloom

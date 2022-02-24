@@ -12,8 +12,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/params"
 
 	"github.com/lasthyphen/dijetsnetgo1.2/chains/atomic"
 	"github.com/lasthyphen/dijetsnetgo1.2/codec"

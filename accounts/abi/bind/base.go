@@ -34,9 +34,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/lasthyphen/coreth1.2/accounts/abi"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/interfaces"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/interfaces"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/event"

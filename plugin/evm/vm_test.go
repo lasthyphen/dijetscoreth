@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/trie"
+	"github.com/lasthyphen/dijetscoreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
@@ -43,14 +43,14 @@ import (
 
 	engCommon "github.com/lasthyphen/dijetsnetgo1.2/snow/engine/common"
 
-	"github.com/lasthyphen/coreth1.2/consensus/dummy"
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/eth"
-	"github.com/lasthyphen/coreth1.2/params"
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/consensus/dummy"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/eth"
+	"github.com/lasthyphen/dijetscoreth/params"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 
-	accountKeystore "github.com/lasthyphen/coreth1.2/accounts/keystore"
+	accountKeystore "github.com/lasthyphen/dijetscoreth/accounts/keystore"
 )
 
 var (

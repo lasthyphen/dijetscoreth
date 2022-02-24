@@ -33,10 +33,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/accounts/abi/bind"
-	"github.com/lasthyphen/coreth1.2/accounts/abi/bind/backends"
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/types"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi/bind"
+	"github.com/lasthyphen/dijetscoreth/accounts/abi/bind/backends"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

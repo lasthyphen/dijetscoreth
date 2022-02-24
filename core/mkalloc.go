@@ -45,7 +45,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/lasthyphen/coreth1.2/core"
+	"github.com/lasthyphen/dijetscoreth/core"
 	"github.com/ethereum/go-ethereum/rlp"
 )
 

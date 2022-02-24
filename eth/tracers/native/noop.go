@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/core/vm"
-	"github.com/lasthyphen/coreth1.2/eth/tracers"
+	"github.com/lasthyphen/dijetscoreth/core/vm"
+	"github.com/lasthyphen/dijetscoreth/eth/tracers"
 	"github.com/ethereum/go-ethereum/common"
 )
 

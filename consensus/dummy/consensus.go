@@ -10,12 +10,12 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/lasthyphen/coreth1.2/consensus"
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/params"
-	"github.com/lasthyphen/coreth1.2/rpc"
-	"github.com/lasthyphen/coreth1.2/trie"
+	"github.com/lasthyphen/dijetscoreth/consensus"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/params"
+	"github.com/lasthyphen/dijetscoreth/rpc"
+	"github.com/lasthyphen/dijetscoreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

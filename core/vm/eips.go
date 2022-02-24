@@ -30,7 +30,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/params"
 	"github.com/holiman/uint256"
 )
 

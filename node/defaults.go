@@ -27,7 +27,7 @@
 package node
 
 import (
-	"github.com/lasthyphen/coreth1.2/rpc"
+	"github.com/lasthyphen/dijetscoreth/rpc"
 )
 
 const (

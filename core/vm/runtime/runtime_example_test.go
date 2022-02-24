@@ -29,7 +29,7 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/lasthyphen/coreth1.2/core/vm/runtime"
+	"github.com/lasthyphen/dijetscoreth/core/vm/runtime"
 	"github.com/ethereum/go-ethereum/common"
 )
 

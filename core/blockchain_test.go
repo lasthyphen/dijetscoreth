@@ -7,13 +7,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/lasthyphen/coreth1.2/consensus/dummy"
-	"github.com/lasthyphen/coreth1.2/core/rawdb"
-	"github.com/lasthyphen/coreth1.2/core/state"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/core/vm"
-	"github.com/lasthyphen/coreth1.2/ethdb"
-	"github.com/lasthyphen/coreth1.2/params"
+	"github.com/lasthyphen/dijetscoreth/consensus/dummy"
+	"github.com/lasthyphen/dijetscoreth/core/rawdb"
+	"github.com/lasthyphen/dijetscoreth/core/state"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/core/vm"
+	"github.com/lasthyphen/dijetscoreth/ethdb"
+	"github.com/lasthyphen/dijetscoreth/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

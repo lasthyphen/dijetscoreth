@@ -1,4 +1,4 @@
-module github.com/lasthyphen/coreth1.2
+module github.com/lasthyphen/dijetscoreth
 
 go 1.16
 

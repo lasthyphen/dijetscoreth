@@ -10,19 +10,19 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/lasthyphen/coreth1.2/core"
-	"github.com/lasthyphen/coreth1.2/core/rawdb"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/core/vm"
-	"github.com/lasthyphen/coreth1.2/eth/tracers"
-	"github.com/lasthyphen/coreth1.2/tests"
+	"github.com/lasthyphen/dijetscoreth/core"
+	"github.com/lasthyphen/dijetscoreth/core/rawdb"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/core/vm"
+	"github.com/lasthyphen/dijetscoreth/eth/tracers"
+	"github.com/lasthyphen/dijetscoreth/tests"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/rlp"
 
 	// Force-load the native, to trigger registration
-	_ "github.com/lasthyphen/coreth1.2/eth/tracers/native"
+	_ "github.com/lasthyphen/dijetscoreth/eth/tracers/native"
 )
 
 type callContext struct {

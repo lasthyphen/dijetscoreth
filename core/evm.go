@@ -29,9 +29,9 @@ package core
 import (
 	"math/big"
 
-	"github.com/lasthyphen/coreth1.2/consensus"
-	"github.com/lasthyphen/coreth1.2/core/types"
-	"github.com/lasthyphen/coreth1.2/core/vm"
+	"github.com/lasthyphen/dijetscoreth/consensus"
+	"github.com/lasthyphen/dijetscoreth/core/types"
+	"github.com/lasthyphen/dijetscoreth/core/vm"
 	"github.com/ethereum/go-ethereum/common"
 	//"github.com/ethereum/go-ethereum/log"
 )
